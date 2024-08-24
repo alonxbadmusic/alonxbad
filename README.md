@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Music Bot 🎵</h1>
+<h1 align="center">🎵 Alonxbad Bot 🎵</h1>
 
 <p align="center">
   <img src="https://graph.org/alonxbad-08-22"  width="554" height="554">
@@ -22,7 +22,7 @@
 
 
 
-[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TMM-TEAM/musicbot)
+[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alonxbadmusic/alonxbad)
 
 
 
@@ -100,10 +100,10 @@ For any type of help in bots, contact to owner in [telegram](https://t.me/hacker
 Stay updated with the latest features and improvements to  Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/tmm_support_chat">
+  <a href="https://t.me/Alonxbad">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/tmm_heroku_world">
+  <a href="https://t.me/hackersBDD">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
