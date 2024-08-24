@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Alonxbad Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/alonxbad-08-22"  width="554" height="554">
+  <img src="https://i.ibb.co/mDj5zL9/632a97e8eff6.jpg"  width="554" height="554">
 </p>
 
 
