@@ -133,5 +133,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Special thanks to all the contributors, supporters, and users of the  Music Bot. Your feedback and support keep us going!
-- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [BADLIAR](https://github.com/alonxbadmusic/alonxbad.git) For their Source Codes.
+- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [BADLIAR & LASTWARNING](https://github.com/alonxbadmusic/alonxbad.git) For their Source Codes.
 
