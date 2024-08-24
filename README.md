@@ -91,7 +91,7 @@ The Alonxbad Bot offers a range of commands to enhance your music listening expe
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For any type of help in bots, contact to owner in [telegram](https://t.me/hackersBDD).
+For any type of help in bots, contact to owner in [telegram](https://t.me/BADLIAR2001).
 
 ---
 
@@ -100,7 +100,7 @@ For any type of help in bots, contact to owner in [telegram](https://t.me/hacker
 Stay updated with the latest features and improvements to  Music Bot:
 
 <p align="center">
-  <a href="https://t.me/Alonxbad">
+  <a href="https://t.me/+YftzDiDsreU4YWFl">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
   <a href="https://t.me/hackersBDD">
